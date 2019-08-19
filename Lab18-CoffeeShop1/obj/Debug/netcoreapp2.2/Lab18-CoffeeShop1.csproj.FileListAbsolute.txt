@@ -29,3 +29,4 @@ C:\Users\lexas\OneDrive\Desktop\C#\Week 5\Lab18-CoffeeShop1\Lab18-CoffeeShop1\ob
 C:\Users\lexas\OneDrive\Desktop\C#\Week 5\Lab18-CoffeeShop1\Lab18-CoffeeShop1\obj\Debug\netcoreapp2.2\Lab18-CoffeeShop1.csproj.CopyComplete
 C:\Users\lexas\OneDrive\Desktop\C#\Week 5\Lab18-CoffeeShop1\Lab18-CoffeeShop1\obj\Debug\netcoreapp2.2\Razor\Views\CoffeeShop\Registration.g.cshtml.cs
 C:\Users\lexas\OneDrive\Desktop\C#\Week 5\Lab18-CoffeeShop1\Lab18-CoffeeShop1\obj\Debug\netcoreapp2.2\Razor\Views\CoffeeShop\Welcome.g.cshtml.cs
+C:\Users\lexas\OneDrive\Desktop\C#\Week 5\Lab18-CoffeeShop1\Lab18-CoffeeShop1\obj\Debug\netcoreapp2.2\Razor\Views\CoffeeShop\DisplayInfo.g.cshtml.cs

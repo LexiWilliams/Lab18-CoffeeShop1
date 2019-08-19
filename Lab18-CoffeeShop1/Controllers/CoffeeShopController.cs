@@ -24,6 +24,7 @@ namespace Lab18_CoffeeShop1.Controllers
         {
             if (ModelState.IsValid)
             {
+
                 return RedirectToAction("Welcome", newUser);
             }
             return View(newUser);
@@ -31,6 +32,18 @@ namespace Lab18_CoffeeShop1.Controllers
         public IActionResult Welcome(RegisterUser user)
         {
             return View(user);
+        }
+      
+        public IActionResult DisplayInfo(RegisterUser user)
+        {
+            ViewBag.FirstName = user.FirstName;
+            ViewBag.LastName = user.LastName;
+            ViewBag.Email = user.Email;
+            ViewBag.Password = user.Password;
+            ViewBag.DOB = user.DOB;
+            ViewBag.Gender = user.Gender;
+            ViewBag.ZipCode = user.ZipCode;
+            return View();
         }
     }
 }
